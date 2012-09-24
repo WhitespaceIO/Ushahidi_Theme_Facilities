@@ -1,6 +1,3 @@
-Ushahidi Theme Facilities
-=========================
-
 Theme Name: Facilities
 Description: Theme for mapping the location of facilities.
 Version: 1.0
